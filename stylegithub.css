@@ -1,0 +1,18 @@
+html {
+    padding: 1%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+p {
+    font-size: large;
+}
+
+img {
+    width: 100%;
+}
